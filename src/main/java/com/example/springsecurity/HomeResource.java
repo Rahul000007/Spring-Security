@@ -18,7 +18,7 @@ public class HomeResource {
 
     @GetMapping("/admin")
     public String admin() {
-        return ("Welcome Admin");
+        return ("Welcome Admins");
     }
 }
 
